@@ -337,8 +337,6 @@ Okay, _now_ we're ready to build out functions:
 
 ### Function Building
 
-- Build a function, `numPointsScored` that takes in an argument of a player's
-  name and returns the number of points scored for that player.
   - Think about where in the object you will find a player's `points`. How can
     you iterate down into that level? Think about the return value of your
     function.
